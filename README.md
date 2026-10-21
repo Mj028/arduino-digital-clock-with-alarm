@@ -4,6 +4,10 @@ An Arduino-based digital clock and alarm system built using an Arduino Uno R3, a
 
 This project explores embedded C/C++ programming, RTC communication, display multiplexing, button handling, and alarm control.
 
+## Project Preview
+
+![Arduino Digital Clock with Alarm](images/completed_clock.jpg)
+
 ## Features
 
 - Real-time timekeeping using a DS1302 RTC module.
